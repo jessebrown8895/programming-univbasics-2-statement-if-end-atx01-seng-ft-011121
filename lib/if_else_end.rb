@@ -1,4 +1,4 @@
-if 
+if true
   puts "this code runs!"
 end
   
